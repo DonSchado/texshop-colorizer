@@ -55,7 +55,7 @@ module Colors
       'commandgreen 0.196',
       'commandblue 0.184',
       'commentred 0.345',
-      'commentgreen 0.043',
+      'commentgreen 0.431',
       'commentblue 0.459',
       'foreground_R 0.514',
       'foreground_G 0.580',
